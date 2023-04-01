@@ -17,6 +17,17 @@ This module consisit of 20 Python Experiments:
 8. write a program to find largest of three numbers
 9. write a python program to convert temperatures to and from celsius,fahrenheit. [formula: c/5 = f-32/9] 
 10. write a python program to conduct the following pattern, using a nested for loop
+
+## *
+## * * 
+## * * * 
+## * * * * 
+## * * * * * 
+## * * * * 
+## * * * 
+## * * 
+## * 
+
 11. write a python script that prints prime numbers less than 20
 12. write a python program to find factorial of a number using Recursion
 13. write a program that accepts the lengths of three sides of a triangle as inputs. The program output should indicate whether or not the triangle is a right triangle (Recall from the Pythagorean Theorem that in a right triangle, the square of one side equals the sum of the squares of other two sides)
